@@ -4,3 +4,4 @@ Learning basics of how html canvas works and what it is, made a basic canvas wit
 a very basic version of paint.
 
 this is the link for it:  https://sultan-ubiquitous.github.io/HthmlCanvas/
+Click on the link and start sketching.
